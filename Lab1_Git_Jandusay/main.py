@@ -1,0 +1,6 @@
+print("Lab 1: Version Control")
+print("Author: Jessie Mae Jandusay")
+print("Student ID: TUPM-26-4304")
+print("Class Section: BSECE-1D")
+print("This is my first git update")
+print("Login Feature Enabled")
